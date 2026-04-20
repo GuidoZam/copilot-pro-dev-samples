@@ -18,7 +18,7 @@
         "full": "Rubber duck: your personal coding assistant"
     },
     "description": {
-        "short": "Rubber duck is your personal coding assistant that help developers.",
+        "short": "Rubber duck is your personal coding assistant that helps developers.",
         "full": "Rubber duck is your personal coding assistant that helps you debug and understand your code by explaining it in simple terms."
     },
     "accentColor": "#FFFFFF",
